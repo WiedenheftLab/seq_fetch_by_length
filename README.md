@@ -12,9 +12,9 @@ SeqIO package from Bio is required to fetch flank sequences. Additionally, tqdm 
         
 Syntax:
 
-        python seq_fetch_larger_bp.py -i demo.fasta -o demo_200000bp.fasta -l 200000
+        python seq_fetch_by_length.py -i demo.fasta -o demo_200000bp.fasta -l 200000
 
-seq_fetch_larger_bp dependencies:
+seq_fetch_by_length dependencies:
 
     Bio module and SeqIO available in this package          refer to https://biopython.org/wiki/Download
     tqdm                                                    refer to https://pypi.org/project/tqdm/
