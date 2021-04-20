@@ -1,4 +1,4 @@
-# seq_fetch_larger_bp
+# seq_fetch_by_length
 
 Author: Murat Buyukyoruk
 
